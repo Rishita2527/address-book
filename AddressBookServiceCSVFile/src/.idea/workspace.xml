@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9986904b-d960-4336-99a1-efd683208453" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book1Contacts.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/com/bridgelabz/library/AddressBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/com/bridgelabz/library/AddressBookDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/com/bridgelabz/library/AddressBookDirectoryIF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/com/bridgelabz/library/AddressBookFileIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/com/bridgelabz/library/AddressBookIF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/com/bridgelabz/library/AddressBookMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/com/bridgelabz/library/ContactPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/com/bridgelabz/AddressBookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bridgelabz/addressbook/AddressBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bridgelabz/addressbook/AddressBookOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bridgelabz/addressbook/Contact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bridgelabz/addressbooksystem/AddingNewContact.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/com/bridgelabz/addressbooksystem/AddingNewContact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bridgelabz/addressbooksystem/AddressBook.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2JqaLX3geRvfZY0AXNoINPwCVnB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9986904b-d960-4336-99a1-efd683208453" name="Changes" comment="" />
+      <created>1672808014304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672808014304</updated>
+    </task>
+    <servers />
+  </component>
+</project>
